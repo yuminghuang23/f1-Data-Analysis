@@ -67,8 +67,9 @@ Directory Tree
 ## Requirments to run locally
 1. requires installation of Jupyter Notebook
 2. required libraries are in 'requirements.txt' using
+```
         pip install -r /path/to/requirements.txt
-
+```
 ## Requirments to on cloud
 1. use Binder: https://mybinder.org/
 2. copy this repo's link
