@@ -52,17 +52,13 @@ Consists 2 .ipynb scripts in folder 'scripts'
 |           fastest_tracks.csv
 |           
 +---scripts
-|   |   Explore & Cleaning.ipynb
-|   |   Tasks Analysis.ipynb
-|   |   
-|   \---.ipynb_checkpoints
-|           Explore & Cleaning-checkpoint.ipynb
-|           Tasks Analysis-checkpoint.ipynb
+|      Explore & Cleaning.ipynb
+|      Tasks Analysis.ipynb
+|   
 |           
 \---WrangledDatasets
         results_wrangled.csv
 ```
-![](header.png)
 
 ## Requirments to run locally
 1. requires installation of Jupyter Notebook
