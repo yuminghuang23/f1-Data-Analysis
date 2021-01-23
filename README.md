@@ -1,5 +1,15 @@
 # f1-Data-Analysis
 
+Consists 2 .ipynb scripts in folder 'scripts'
+
+1. Run 'Explore & Cleaning.ipynb' first to pick up data files from 'DataAnalystAssignment'
+        - cleaned data is stored in 'WrangledDatasets'
+2. Run 'Tasks Analysis.ipynb' to analysis on the data
+        - output data is stored in 'Result/ResultDatasets'
+        - graphs are stored in 'Result/Graph'
+3. Repot on the analysis can be found in 'Result/', name: 'Report.pdf'
+
+Directory Tree
 ```
 |   output.txt
 |   requirements.txt   
@@ -61,5 +71,6 @@
 1. use Binder: https://mybinder.org/
 2. copy this repo's link
 3. Binder will auto build image and deploy
+
 
 
