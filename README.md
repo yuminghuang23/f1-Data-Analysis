@@ -72,5 +72,6 @@ pip install -r /path/to/requirements.txt
    (refer to this document for more information: https://mybinder.readthedocs.io/en/latest/introduction.html)
 3. Click 'Launch' and Binder will auto build image and deploy
 
+Or, try the already deployed version: https://notebooks.gesis.org/binder/jupyter/user/yuminghuang23-f1-data-analysis-j51bw7vt/tree
 
 
