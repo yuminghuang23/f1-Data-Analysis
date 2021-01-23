@@ -3,10 +3,10 @@
 ### To execute the scripts:
 Consists 2 .ipynb scripts in folder 'scripts'
 
-1. Run 'Explore & Cleaning.ipynb' first to pick up data files from 'DataAnalystAssignment'
+1. Run 'Explore & Cleaning.ipynb' first to pick up data files from 'DataAnalystAssignment' <br>
         - cleaned data is stored in 'WrangledDatasets'
-2. Run 'Tasks Analysis.ipynb' to analysis on the data
-        - output data is stored in 'Result/ResultDatasets'
+2. Run 'Tasks Analysis.ipynb' to analysis on the data <br>
+        - output data is stored in 'Result/ResultDatasets' <br>
         - graphs are stored in 'Result/Graph'
 3. Repot on the analysis can be found in 'Result/', name: 'Report.pdf'
 
@@ -68,7 +68,7 @@ pip install -r /path/to/requirements.txt
 ```
 ## Requirments to on cloud
 1. use Binder: https://mybinder.org/
-2. copy this repo's link: https://github.com/yuminghuang23/f1-Data-Analysis and paste into Binder 
+2. copy this repo's link: https://github.com/yuminghuang23/f1-Data-Analysis and paste into Binder <br>
    (refer to this document for more information: https://mybinder.readthedocs.io/en/latest/introduction.html)
 3. Click 'Launch' and Binder will auto build image and deploy
 
