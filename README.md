@@ -72,8 +72,8 @@ pip install -r /path/to/requirements.txt
 ```
 ## Requirments to on cloud
 1. use Binder: https://mybinder.org/
-2. copy this repo's link
-3. Binder will auto build image and deploy
+2. copy this repo's link: https://github.com/yuminghuang23/f1-Data-Analysis
+3. Click 'Launch' and Binder will auto build image and deploy
 
 
 
