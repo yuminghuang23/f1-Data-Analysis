@@ -1,0 +1,31 @@
+circuitId,circuitRef,name,location,country,incidentCount
+6,monaco,Circuit de Monaco,Monte-Carlo,Monaco,176
+20,nurburgring,NÌ_rburgring,NÌ_rburg,Germany,113
+14,monza,Autodromo Nazionale di Monza,Monza,Italy,113
+9,silverstone,Silverstone Circuit,Silverstone,UK,99
+13,spa,Circuit de Spa-Francorchamps,Spa,Belgium,94
+7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,90
+19,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,85
+18,interlagos,AutÌ_dromo JosÌ© Carlos Pace,SÌ£o Paulo,Brazil,75
+39,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,60
+23,osterreichring,A1-Ring,Spielburg,Austria,58
+4,catalunya,Circuit de Barcelona-Catalunya,MontmelÌ_,Spain,57
+22,suzuka,Suzuka Circuit,Suzuka,Japan,55
+10,hockenheimring,Hockenheimring,Hockenheim,Germany,55
+1,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,54
+11,hungaroring,Hungaroring,Budapest,Hungary,51
+43,long_beach,Long Beach,California,USA,43
+30,kyalami,Kyalami,Midrand,South Africa,42
+15,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore,40
+40,zolder,Zolder,Heusden-Zolder,Belgium,40
+25,galvez,AutÌ_dromo Juan y Oscar GÌÁlvez,Buenos Aires,Argentina,36
+2,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,34
+46,watkins_glen,Watkins Glen,New York State,USA,33
+38,brands_hatch,Brands Hatch,Kent,UK,33
+21,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,31
+37,detroit,Detroit Street Circuit,Detroit,USA,30
+3,bahrain,Bahrain International Circuit,Sakhir,Bahrain,27
+8,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,25
+24,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24
+48,mosport,Mosport International Raceway,Ontario,Canada,24
+35,yeongam,Korean International Circuit,Yeongam County,Korea,24
