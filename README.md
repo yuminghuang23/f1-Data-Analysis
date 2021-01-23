@@ -1,5 +1,6 @@
 # f1-Data-Analysis
 
+### To execute the scripts:
 Consists 2 .ipynb scripts in folder 'scripts'
 
 1. Run 'Explore & Cleaning.ipynb' first to pick up data files from 'DataAnalystAssignment'
@@ -11,7 +12,6 @@ Consists 2 .ipynb scripts in folder 'scripts'
 
 Directory Tree
 ```
-|   output.txt
 |   requirements.txt   
 +---DataAnalystAssignment
 |       .DS_Store
@@ -64,10 +64,12 @@ Directory Tree
 ```
 ![](header.png)
 
-## Run locally
+## Requirments to run locally
 1. requires installation of Jupyter Notebook
+2. required libraries are in 'requirements.txt' using
+        pip install -r /path/to/requirements.txt
 
-## Run on cloud
+## Requirments to on cloud
 1. use Binder: https://mybinder.org/
 2. copy this repo's link
 3. Binder will auto build image and deploy
