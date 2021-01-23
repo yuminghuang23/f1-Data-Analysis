@@ -10,7 +10,7 @@ Consists 2 .ipynb scripts in folder 'scripts'
         - graphs are stored in 'Result/Graph'
 3. Repot on the analysis can be found in 'Result/', name: 'Report.pdf'
 
-Directory Tree
+### Directory Tree
 ```
 |   requirements.txt   
 +---DataAnalystAssignment
