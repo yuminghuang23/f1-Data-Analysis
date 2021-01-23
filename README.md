@@ -1,5 +1,6 @@
 # f1-Data-Analysis
 
+```
 |   output.txt
 |   requirements.txt   
 +---DataAnalystAssignment
@@ -50,7 +51,7 @@
 |           
 \---WrangledDatasets
         results_wrangled.csv
-
+```
 ![](header.png)
 
 ## Run locally
