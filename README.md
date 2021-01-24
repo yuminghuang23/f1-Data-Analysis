@@ -63,11 +63,11 @@ Consists 2 .ipynb scripts in folder 'scripts'
 ## Requirments to run locally
 1. requires Python 3 or higher <br>
         (can be found here: https://www.python.org/downloads/windows/)
-2. requires installation of Jupyter Notebook <br>
+2. requires installation of Jupyter Notebook or Jupter Lab, either will do<br>
         (refer to official site for installation: https://jupyter.org/install)
 3. required libraries are in 'requirements.txt', can be installed using:
 ```
-pip install -r /path/to/requirements.txt
+pip3 install -r /path/to/requirements.txt
 ```
 ## Requirments to on cloud
 1. use Binder: https://mybinder.org/
