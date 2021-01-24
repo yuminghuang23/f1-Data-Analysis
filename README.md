@@ -8,7 +8,7 @@ Consists 2 .ipynb scripts in folder 'scripts'
 2. Run 'Tasks Analysis.ipynb' to analysis on the data <br>
         - output data is stored in 'Result/ResultDatasets' <br>
         - graphs are stored in 'Result/Graph'
-3. Repot on the analysis can be found in 'Result/', name: 'Report.pdf'
+3. Analysis Report can be found in 'Result/', name: 'Report.pdf'
 
 ### Directory Tree
 ```
@@ -61,8 +61,11 @@ Consists 2 .ipynb scripts in folder 'scripts'
 ```
 
 ## Requirments to run locally
-1. requires installation of Jupyter Notebook
-2. required libraries are in 'requirements.txt' using
+1. requires Python 3 or higher <br>
+        (can be found here: https://www.python.org/downloads/windows/)
+2. requires installation of Jupyter Notebook <br>
+        (refer to official site for installation: https://jupyter.org/install)
+3. required libraries are in 'requirements.txt', can be installed using:
 ```
 pip install -r /path/to/requirements.txt
 ```
@@ -72,6 +75,6 @@ pip install -r /path/to/requirements.txt
    (refer to this document for more information: https://mybinder.readthedocs.io/en/latest/introduction.html)
 3. Click 'Launch' and Binder will auto build image and deploy
 
-Or, try the already deployed version: https://notebooks.gesis.org/binder/jupyter/user/yuminghuang23-f1-data-analysis-j51bw7vt/tree
+Or, try the already deployed version: https://gesis.mybinder.org/binder/v2/gh/yuminghuang23/f1-Data-Analysis/583414e209b7d354d01a7fcb45068dd1f12cf50b
 
 
