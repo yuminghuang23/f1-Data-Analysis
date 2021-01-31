@@ -61,7 +61,7 @@ Consists 2 .ipynb scripts in folder 'scripts'
 ```
 
 ## Requirments to run locally
-1. requires Python 3 or higher <br>
+1. requires Python 3.4 or higher <br>
         (can be found here: https://www.python.org/downloads/windows/)
 2. requires installation of Jupyter Notebook or Jupter Lab, either will do<br>
         (refer to official site for installation: https://jupyter.org/install)
